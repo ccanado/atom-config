@@ -1,0 +1,27 @@
+[
+  {
+    title: "KairosPeople"
+    group: "KAIROS"
+    paths: [
+      "/Users/ccanado/dev/projects/polymerday"
+      "/Users/ccanado/dev/sandbox/notes"
+      "/Users/ccanado/dev/projects/kairos-people"
+      "/Users/ccanado/dev/projects/kairos-server/"
+    ]
+  }
+  {
+    title: "OMNI"
+    group: "KST"
+    paths: [
+      "/Users/ccanado/dev/CI-BBVA/kst-omni-ms-reader-users",
+      "/Users/ccanado/dev/CI-BBVA/kst-sandbox-arquetipo-ms-node",
+      "/Users/ccanado/dev/CI-BBVA/kst-ff-digital-sign"
+    ]
+  }
+  {
+    title: "Sandbox"
+    paths: [
+      "/Users/ccanado/dev/sandbox"
+    ]
+  }
+]

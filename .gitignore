@@ -1,0 +1,8 @@
+blob-store
+compile-cache
+git-time-machine
+packages
+split-diff
+storage
+.apm
+.node-gyp
